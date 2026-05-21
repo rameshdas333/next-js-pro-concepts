@@ -8,6 +8,7 @@ export default function Header() {
         <nav className='flex space-x-5'>
             <Link href={"/"}>Home</Link>
             <Link href={"/about"}>About</Link>
+            <Link href={"*"}>Service</Link>
             <Link href={"/register"}>Register</Link>
             <Link href={"/login"}>Login</Link>
         </nav>
