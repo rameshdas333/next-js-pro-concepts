@@ -11,6 +11,7 @@ export default function Header() {
             <Link href={"*"}>Service</Link>
             <Link href={"/register"}>Register</Link>
             <Link href={"/login"}>Login</Link>
+            <Link href={"/stories"}>Stories</Link>
         </nav>
     </header>
   )

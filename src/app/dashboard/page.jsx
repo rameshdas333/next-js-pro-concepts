@@ -4,7 +4,7 @@ import Title from '../components/Title'
 const Dashboard = () => {
   return (
     <div>
-      <Title>Welcome to the Dashboard</Title>
+      <Title>💖Welcome to the Dashboard</Title>
     </div>
   )
 }
